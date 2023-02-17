@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import { WagmiConfig, createClient } from "wagmi";
+import { ConnectKitProvider, getDefaultClient } from "connectkit";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import Invest from "./components/Invest";
+import Navbar from "./components/Navbar";
+import "./App.css";
+import AssetPage from "./pages/AssetPage";
+const client = createClient(
+  getDefaultClient({
+    appName: "Canto Index",
+  })
+);
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <WagmiConfig client={client}>
+      <ConnectKitProvider>
+        <BrowserRouter>
+          <Navbar />
+          <Routes>
+            <Route index element={<Home />} />
+            <Route path="/invest/:address" element={<AssetPage />} />
+          </Routes>
+        </BrowserRouter>
+      </ConnectKitProvider>
+    </WagmiConfig>
   );
-}
-
+};
 export default App;
