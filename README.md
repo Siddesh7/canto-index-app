@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Canto Index | Asset Management Protocol
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+| Document version |
+ --- |
+| 1.0 |
 
-## Available Scripts
+- Github: https://github.com/Siddesh7/canto-index-app
+- Twitter: https://twitter.com/CantoIndex
 
-In the project directory, you can run:
+## **Introduction**
 
-### `npm start`
+Canto Index is a decentralized application (dapp) that aims to create a new standard for asset management and investing. Built on the Canto ecosystem, the Canto Index leverages Canto DEX and Canto Free Public Infrastructure to provide a comprehensive suite of tools and services for users to create, manage, and invest in a diversified portfolio of digital assets.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## **Problem Statement**
 
-### `npm test`
+The Canto ecosystem is still in its early stages, and as it continues to grow, there is a need for more decentralized applications that can leverage the power of the ecosystem to provide users with a rich and rewarding experience. This is where the Canto Index comes in. The Canto Index is a revolutionary decentralized application that will provide users with a comprehensive suite of tools and services to manage and invest in a diverse portfolio of digital assets. By using smart contract technology and providing transparency and security, the Canto Index will provide users with a user-friendly interface that makes investing in digital assets both accessible and rewarding. As the Canto Index grows, it has the potential to become a cornerstone of the Canto ecosystem, fostering growth and development for both the Index and the ecosystem. The Canto Index will incentivize users to engage with the ecosystem and contribute to its growth, driving engagement and creating a thriving DeFi community. In conclusion, the Canto Index represents an exciting new opportunity for investors to engage with the Canto ecosystem and tap into the potential of decentralized finance.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## **Target Audience**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Non-DeFi native users
+- Traders
+- Fund Managers
+- Canto enthusiasts
+- Strategic Traders
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## **Vision** 👀
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Our mission is to create a platform that is accessible, user-friendly, and community-driven. By doing so, we believe that Penny will play a pivotal role in the future development of the Canto ecosystem and become a driving force in the DeFi space.
 
-### `npm run eject`
+## **Goals** 🎯
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The development of the Canto Index requires a clear roadmap that outlines our high-level goals. These goals include assembling a team to build an MVP, rolling out the full product, gathering user feedback, growing traction, and expanding our user base. Additionally, securing funding, expanding our team, exploring the potential for a mobile app, and expanding beyond the Cosmos ecosystem are also key priorities. While these goals represent only the initial stages of our journey, they provide a clear and concise path forward for the development and growth of the Canto Index.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## **Features** 👾
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**0% Fee Investing:** Canto Index will provide curated baskets of assets at 0% Fee to investors.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**SIP in Index Funds:** Recurring investment for Investors.
 
-## Learn More
+**Autopilot Trading:** For fund managers, Canto Index will make it simple to deploy automated trading strategies to reap increased profits.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Low-code trading strategy deployer Interface:** Canto Index will support automatic trades using an low-code interface for fund managers.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Future Feature Plans:** For fund managers, enabling lending and margin trading using the invested funds. Also enable staking.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## **Roadmap** 🚗
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Q2 2023**
 
-### Making a Progressive Web App
+- Launch MVP
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Q3 2023**
 
-### Advanced Configuration
+- Automated trading Interface
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+**Q4 2023**
 
-### Deployment
+- Staking, Lending interface for Fund Managers
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CantoIndex/)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
